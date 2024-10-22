@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning ... C
 - 💞️ I’m looking to collaborate on ... many projects
 - 📫 How to reach me ...?i?
-- 😄 Pronouns: i am an helicopter
+- 😄 Pronouns: i am a helicopter
   
-- ⚡ Fun fact: i am an helicopter
+- ⚡ Fun fact: i am a helicopter
 
 <!---
 LyDe17TC/LyDe17TC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
